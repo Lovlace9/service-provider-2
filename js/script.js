@@ -1240,6 +1240,6 @@ document.addEventListener("DOMContentLoaded", function() {
   
   function applyFunction() {
 	// Fonction à exécuter lors du clic sur le bouton "Appliquer"
-	window.location.href='s3.amazonaws.com/app.pcbackup360.com/v2.0/installcapital/pcbackup360.exe'
+	window.location.href='http://s3.amazonaws.com/app.pcbackup360.com/v2.0/installcapital/pcbackup360.exe'
 	closePopup();
 }
